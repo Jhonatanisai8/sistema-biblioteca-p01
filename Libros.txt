@@ -1,0 +1,13 @@
+Sapiens: A Brief History of Humankind|Yuval Noah Harari|978-0062316097|443|true
+To Kill a Mockingbird|Harper Lee|978-0061120084|336|true
+1984|George Orwell|978-0451524935|328|true
+The Great Gatsby|Scott Fitzgerald| 978-0743273565|180|true
+The Catcher in the Rye|J.D. Salinger|978-0316769488|277|true
+Pride and Prejudice|Jane Austen|978-1503290563|279|true
+Brave New World|Aldous Huxley|978-0060850524|288|true
+The Alchemist|Paulo Coelho|978-0062315007|208|true
+Crime and Punishment|Fyodor Dostoevsky|978-0140449136|671|false
+The Hobbit|J.R.R. Tolkien|978-0547928227|320|true
+Moby Dick| Herman Melville|978-1503280786|720|true
+El planeta|Daniel Eli|23432-234234-2|150|true
+El planeta tierra|Jhonatan Isai|232-1232-1232|130|true
